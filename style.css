@@ -1,0 +1,35 @@
+body,h1,h2,p{
+    margin:0;
+    padding:0;
+}
+/* Basic styling*/
+body{
+    font-family:Arial, sans-serif;
+    line-height:1.6;
+}
+/*header style*/
+header{
+    align-items: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+.color,h2{
+    color:DeepSkyBlue;
+}
+main{
+    padding: 2rem;
+}
+img{
+    max-width: 100%;
+}
+.profile{
+    display:flex;
+}
+footer{
+    margin-top:auto;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
